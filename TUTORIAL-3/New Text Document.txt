@@ -1,0 +1,4 @@
+ #Flask-WTF (flask forms)
+
+ /*pip install flask-WTF*/
+ WTForms, a flexible form, rendering and validation library comes handy. Flask-WTF extension provides a simple interface with this WTForms library.

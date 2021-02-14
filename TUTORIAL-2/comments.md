@@ -1,0 +1,3 @@
+special variable /*__name__*/ that holds the name of the current Python module.
+
+/*@app.route*/  is a decorator that turns a regular Python function into a Flask view function, which converts the function’s return value into an HTTP response to be displayed by an HTTP client, such as a web browser. You pass the value '/' to @app.route() to signify that this function will respond to web requests for the URL /, which is the main URL.
